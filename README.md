@@ -4,6 +4,7 @@ Tom would like to conduct an accurate the election report to be submitted to the
 
 # Election Audit Results
 After analyzing the election data we got the following result:
+
 <br/>*The total number of votes were casted to be 369,711. 
 
 <br/>*The number and percentage of total votes across three counties were predicted:
@@ -19,12 +20,11 @@ After analyzing the election data we got the following result:
 <br/>Raymon Anthony Doane: 3.1% of votes, or 11,606 total number of votes.
 
 <br/>*We predict Diana DeGatte would won the election with 73.8% of votes, or 272,892 total number of votes.
-
-<br/>![ElectionResult.png](https://github.com/xujenny98/Election_Analysis/blob/main/Resource/ElectionResult.png) ![ElectionResult.png]
+<br/>![ElectionResult.png](https://github.com/xujenny98/Election_Analysis/blob/main/Resource/ElectionResult.png) 
 # Summary
-<br/>Examples
+<br/>The following Python script can be used, with some modification for any election. the following script "candidate_name = row[2]" and "county_name = row[1]" is to find the candidate name and county from the databse. The candidate name is in column 3, and dounty name in column 2. For example, if the candidate name was in column 5 and county name in column 4.  If we want to get the candidate name and county name from each row we can change the code to "candicate_name = row[4]" and "county_name = row[3]".
+<br/>![Example.png](https://github.com/xujenny98/Election_Analysis/blob/main/Resource/ElectionResult.png)
 
-# Challenge 
 
 
 
