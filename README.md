@@ -1,6 +1,6 @@
 # Election_Analysis
 # Project Overview and Purpose
-Tom would like to conduct an accurate the election report to be submitted to the Colorado Boaed of Elections.  In order for Tom to know the election results, Tom would needs to analyze election data using Python.  
+Tom would like to conduct an accurate election report to be submitted to the Colorado Boaed of Elections.  In order for Tom to know the election results, Tom would needs to analyze election data using Python.  
 
 # Election Audit Results
 After analyzing the election data we got the following result:
